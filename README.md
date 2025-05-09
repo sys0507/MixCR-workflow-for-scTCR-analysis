@@ -42,7 +42,7 @@ mixcr_workflow/
 ## Usage
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/mixcr_workflow.git
+   git clone https://github.com/sys0507/MixCR-workflow-for-scTCR-analysis.git
    cd mixcr_workflow
    ```
 
